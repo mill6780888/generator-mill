@@ -44,8 +44,6 @@
   },
   "repository": "https://mill6780888:mill6780999@github.com/mill6780888/generator-mill.git",
   "scripts": {
-    "prepublish": "gulp prepublish",
-    "test": "gulp"
   },
   "license": "Apache-2.0"
 }
