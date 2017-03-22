@@ -1,0 +1,32 @@
+[
+  {
+    "type": "rawlist",
+    "name": "fenlei",
+    "message": "请选择您需要的生成工具的类别",
+    "choices": [
+      {
+        "value": "yeoman",
+        "name": "mill-yeoman",
+        "checked": true
+      },
+      {
+        "value": "java",
+        "name": "java相关的生成器",
+        "checked": false
+      },
+      {
+        "value": "node",
+        "name": "nodejs相关",
+        "checked": false
+      },{
+        "value": "maven",
+        "name": "maven相关",
+        "checked": false
+      },{
+        "value": "gulp",
+        "name": "gulp相关",
+        "checked": false
+      }
+    ]
+  }
+]
